@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Code Review Router"
+  short_description: "大批量 AI 代码变更初审、风险分类与人工分诊"
+  default_prompt: "Use $ai-code-review-router to triage a large AI-generated code diff into concise human review cards."
